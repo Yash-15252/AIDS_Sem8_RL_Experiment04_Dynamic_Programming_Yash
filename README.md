@@ -1,4 +1,4 @@
-# AIDS_Sem6_RL_Experiment04_DP
+# AIDS_Sem8_RL_Experiment04_DP
 
 ## ***YASH KHAMKAR - 221A030***
 ## ***Dynamic Programming Algorithms***
@@ -101,7 +101,7 @@ Value Iteration :: wins = 942/10000 (9.42%)
 ## References
 1. Sutton & Barto, "RL: An Introduction" (Ch. 4: Dynamic Programming)
 2. Gymnasium Documentation: FrozenLake-v1
-3. AIDS Sem6 RL Course
+3. AIDS Sem8 RL Course
 
 ## Setup & Run
 ```bash
